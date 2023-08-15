@@ -5,20 +5,16 @@
 </p>
 
 ## Sistema de Consultas - Convidados do Clube
-Para este projeto foi algo bastante pessoal. Frequento um clube junto de minha namorada porém não sou sócio, e por conta disso só posso ir ao clube de 2 em 2 meses. E então veio em minha mente a minha ideia de criar um pequeno sistema de consulta por CPF. E a partir dessa consulta, dizer se a pessoa já pode retornar ao clube e se ainda não puder, mostrar quantos dias ainda faltam.
-* Análise exploratória para entender os dados
-* Algumas visualizações a partir de insights
-* Preparação dos dados para aplicar um modelo de IA
-* Comparação de vários algoritmos de Machine Learning
-* Técnicas avaçadas de Machine Learning
-* Avaliação dos resultados e conclusão
+Para este projeto foi algo bastante pessoal. Frequento um clube junto de minha namorada porém não sou sócio, e por conta disso só posso ir ao clube de 2 em 2 meses. E então veio em minha mente a minha ideia de criar um pequeno sistema de consulta por CPF. E a partir dessa consulta, dizer se a pessoa já pode retornar ao clube e se ainda não puder, mostrar quantos dias ainda faltam. Alguns passos do projeto:
+* Construção de um Banco de Dados
+* Escolhas do Usuário 
+* Consulta ao Banco de Dados, a partir do CPF informado
+* Funções entre Datas
 
-Ao longo de todo o projeto, cada célula de código está explicada para uma fácil compreensão, acompanhado de um belo storytelling. Vocês também encontrarão algumas análises estatísticas, boxplots, histogramas, balanceamento de classes, padronização de algumas variáveis, seleção de features, feature engineering, codificação de variáveis e muitos modelos de machine learning.
-
-Neste projeto foi utilizado: Storytelling, Estatística, Machine Learning e a linguagem de programação Python.
+Neste projeto foi utilizado: Linguagem de Programação Python, SQL e Lógica.
 
 
-[Link para o projeto completo](https://bit.ly/443L5J5)
+[Link para o projeto completo](https://github.com/ferreiramar96/Sistema-Convidados-Clube/blob/master/principal.py)
 
 **Links para me acharem:**
 * [Artigo desse projeto no Linkedin](https://www.linkedin.com/posts/felipeferreiratids_datascience-cienciadedados-machinelearning-activity-7096951640322142209-WszZ?utm_source=share&utm_medium=member_desktop)
