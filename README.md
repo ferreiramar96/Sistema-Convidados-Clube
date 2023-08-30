@@ -17,7 +17,7 @@ Neste projeto foi utilizado: Linguagem de Programação Python, SQL e Lógica.
 [Link para o projeto completo](https://github.com/ferreiramar96/Sistema-Convidados-Clube/blob/master/principal.py)
 
 **Links para me acharem:**
-* [Artigo desse projeto no Linkedin](https://www.linkedin.com/posts/felipeferreiratids_datascience-cienciadedados-machinelearning-activity-7096951640322142209-WszZ?utm_source=share&utm_medium=member_desktop)
+* [Artigo desse projeto no Linkedin](https://www.linkedin.com/posts/felipeferreiratids_python-sql-database-activity-7102652432576393216-ZefN?utm_source=share&utm_medium=member_desktop)
 * [LinkedIn](https://www.linkedin.com/in/felipeferreiratids/)
 * [Instagram](https://www.instagram.com/ferreiramar96/)
 * [Portfólio Completo](https://github.com/ferreiramar96/Data_Science)
